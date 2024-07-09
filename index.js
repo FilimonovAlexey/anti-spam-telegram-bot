@@ -26,4 +26,9 @@ bot.on('message:text', async (ctx) => {
   }
 });
 
+bot.catch((err) => {
+  const ctx = err.ctx;
+  logger.error(`Error while handling update ${ctx.update.update_id}:`, err);
+});
+
 bot.start();
