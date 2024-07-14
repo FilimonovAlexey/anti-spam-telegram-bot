@@ -73,6 +73,6 @@ pm2 start index.js
 [Документация grammy js](https://grammy.dev/guide/)
 
 
-## Authors
+## Автор
 
 - [@FilimonovAlexey](https://github.com/FilimonovAlexey)
