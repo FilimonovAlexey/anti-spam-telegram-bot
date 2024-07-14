@@ -1,6 +1,6 @@
 # Telegram бот фильтр мата
 
-Телеграм бот на JavaScript и фреймворке gremmY js для фильтрации нецензурной лексики (мата) в чатах Telegram.
+Телеграм бот на JavaScript и фреймворке grammY js для фильтрации нецензурной лексики (мата) в чатах Telegram.
 
 ## Структура проекта
 - `index.js` - Главный файл с логикой бота.
@@ -28,7 +28,7 @@ git clone https://github.com/FilimonovAlexey/anti-spam-telegram-bot.git
 
 * Переходим в папку проекта:
 ```bash
-cd tech-interview-trainer
+cd anti-spam-telegram-bot
 ```
 
 * Устанавливаем Node.js и пакетный менеджер npm
@@ -44,7 +44,7 @@ sudo n stable
 ```
 * Устанавливаем все зависимости
 ```bash
-cd tech-interview-trainer
+cd anti-spam-telegram-bot
 npm i
 ```
 
