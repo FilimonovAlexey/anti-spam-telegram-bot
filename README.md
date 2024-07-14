@@ -23,7 +23,7 @@ sudo apt install git
 
 * Клонируем репозиторий с ботом на сервер:
 ```bash
-git clone https://github.com/FilimonovAlexey/tech-interview-trainer.git
+git clone https://github.com/FilimonovAlexey/anti-spam-telegram-bot.git
 ```
 
 * Переходим в папку проекта:
